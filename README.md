@@ -6,7 +6,7 @@ Users can upload an image, and the app will detect and classify objects in the i
 
 ## 🚀 Live Demo
 
-👉 [Try it here]([https://your-deployed-app-link.com](https://coruscating-halva-1ef827.netlify.app/))
+👉 [Try it here](https://coruscating-halva-1ef827.netlify.app/)
 
 ## ⚙️ Features
 
