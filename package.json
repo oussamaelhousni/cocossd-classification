@@ -1,0 +1,22 @@
+{
+  "name": "image-classification",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx parcel index.html --no-hmr"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.15.4",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow/tfjs": "^4.22.0",
+    "toastify-js": "^1.12.0"
+  }
+}
